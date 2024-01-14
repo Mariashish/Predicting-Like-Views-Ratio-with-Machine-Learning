@@ -5,10 +5,10 @@ For this project, I chose to analyze the YouTube channel of the popular YouTuber
 
 # Files Attached:
 
-### Dataset: MrBeast400.csv (Contains information on 400 videos)
-### Jupyter Notebook: ProgettoAIML.ipynb (Includes API Scraping, Descriptive Analysis, Classification, and Regression)
-### Classification Code: Classificazione10Classi.ipynb
-### Paper: PaperProgettoAIML_DanieleMariani.pdf
+Dataset: MrBeast400.csv (Contains information on 400 videos)
+Jupyter Notebook: ProgettoAIML.ipynb (Includes API Scraping, Descriptive Analysis, Classification, and Regression)
+Classification Code: Classificazione10Classi.ipynb
+Paper: PaperProgettoAIML_DanieleMariani.pdf
 
 # Project Organization:
 
