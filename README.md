@@ -20,7 +20,7 @@ Regression Models: Trained and compared Linear Regression, SVR, RandomForest Reg
 
 # Key Findings:
 ### Classification:
-
+### Regression
 RandomForest and XGBoost outperformed other classifiers.
 Naive Bayes showed lower performance.
 Models tended to overestimate the Virale class.
@@ -28,5 +28,6 @@ Regression:
 
 RandomForest and XGBoost demonstrated superior performance, with lower error dispersion.
 SVR showed higher variability and error dispersion.
-Conclusion:
+
+# Conclusion:
 The project successfully predicts the Like/Views ratio and provides insights into the YouTube channel's dynamics. RandomForest and XGBoost emerged as top-performing models for both classification and regression tasks.
